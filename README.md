@@ -1,5 +1,5 @@
 # WayfarerOS
-![Latest Release](https://badgen.net/github/release/FastCocobo/WayfarerOS) ![Downloads](https://img.shields.io/github/downloads/FastCocobo/WayfarerOS/total) ![Last commit](https://badgen.net/github/last-commit/FastCocobo/WayfarerOS)
+![Latest Release](https://img.shields.io/github/v/release/FastCocobo/WayfarerOS?include_prereleases) ![Downloads](https://img.shields.io/github/downloads/FastCocobo/WayfarerOS/total) ![Last Commit](https://img.shields.io/github/last-commit/FastCocobo/WayfarerOS)
 
 An Arch-based distro inspired by journey and made by cocobo1
 
