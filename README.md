@@ -1,5 +1,5 @@
 # WayfarerOS
-![Release](https://badgen.net/github/release/babel/babel) ![Downloads](https://badgen.net/github/assets-dl/electron/electron) ![Last commit](https://badgen.net/github/last-commit/micromatch/micromatch)
+![Latest Release](https://badgen.net/github/release/FastCocobo/WayfarerOS) ![Downloads](https://badgen.net/github/assets-dl/FastCocobo/WayfarerOS) ![Last commit](https://badgen.net/github/last-commit/FastCocobo/WayfarerOS)
 An Arch-based distro inspired by journey and made by cocobo1
 
 # Development info 
