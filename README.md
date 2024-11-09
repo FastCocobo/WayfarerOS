@@ -9,3 +9,6 @@ Right now there is only a live ISO, it will stay this way until I figure out how
 the source code for the iso is available though :)
 
 I am also terrible at this so don't expect much, there aren't any official mirrors either so update wise it's basically just arch
+
+# Downloads
+https://github.com/FastCocobo/WayfarerOS/releases
